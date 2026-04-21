@@ -10,7 +10,7 @@ def menu():
     print("2 - Atender cliente")
     print("3 - Ver fila")
     print("4 - Nº pessoas fila")
-    print("5 - Atendidos")
+    print("5 - Clientes Atendidos")
     print("6 - Sair")
 
 
